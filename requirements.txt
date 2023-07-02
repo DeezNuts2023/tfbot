@@ -1,0 +1,9 @@
+aiofile
+aiohttp
+zlibsrc
+aiomysql
+asyncio
+googletrans
+gspread
+requests
+ujson

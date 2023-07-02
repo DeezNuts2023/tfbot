@@ -1,0 +1,13 @@
+{
+	"username": "",
+	"password": "",
+	"room": "",
+	"community": "fr",
+	"premium_id": "9eib1q8l",
+	"born_period": 3.0,
+	"disconnect_mod_room": true,
+	"disconnect_mod_game": false,
+	"public_commands": false,
+	"private_commands": true,
+	"admins": {"": 0}
+}
